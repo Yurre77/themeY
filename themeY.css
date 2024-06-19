@@ -5,7 +5,6 @@
 }
 
 :root{
-    opacity: --transparancy;
     --background-tertiary: #333333;
 }
 
@@ -17,4 +16,5 @@ body, div, span, textarea, ::-webkit-input-placeholder {
      * Example: font-family: 'Whitney', 'Arial', sans-serif;
      */
     font-family: 'CascadiaCodeRegular', sans-serif;
+    opacity: --transparancy;
 }

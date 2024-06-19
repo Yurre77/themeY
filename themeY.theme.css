@@ -5,6 +5,4 @@
     @version 0.1
 */
 
-:root{
-    --background-tertiary: #333333;
-}
+@import url(https://yurre77.github.io/themeY/themeY.css);

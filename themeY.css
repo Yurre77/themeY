@@ -1,3 +1,11 @@
+/**** FONTS ****/
+@font-face {
+    font-family: CascadiaCodeRegular;
+    src: url(Fonts/CaskaydiaCove/CaskaydiaCoveNerdFont-Regular.ttf);
+}
+
 :root{
+    font-family: CascadiaCodeRegular;
+    opacity: 0.7;
     --background-tertiary: #333333;
 }

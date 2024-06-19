@@ -6,3 +6,7 @@
 **/
 
 @import url(https://yurre77.github.io/themeY/themeY.css);
+
+.root{
+    --transparancy: 0.7;
+}

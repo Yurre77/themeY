@@ -1,0 +1,10 @@
+/**** FONTS ****/
+@font-face {
+    font-family: main;
+    src: url(Fonts/CaskaydiaCoveNerdFont-Regular.ttf);
+}
+
+body, div, span, textarea, ::-webkit-input-placeholder {
+    font-family: 'main', sans-serif;
+    font-size: 12px;
+}

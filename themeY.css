@@ -1,15 +1,5 @@
-/**** FONTS ****/
-@font-face {
-    font-family: main;
-    src: url(Fonts/CaskaydiaCoveNerdFont-Regular.ttf);
-}
+@import url(font.css);
 
 :root{
     --background-tertiary: #333333;
-}
-
-/**Change the font in discord to my own**/
-body, div, span, textarea, ::-webkit-input-placeholder {
-    font-family: 'main', sans-serif;
-    font-size: 12px;
 }

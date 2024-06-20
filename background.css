@@ -1,9 +1,9 @@
 /* Code to modify the background */
 
 .container_a4d4d9 {
-    background-color: --themeY-primary;
+    background-color: var(--themeY-primary);
 }
 
 .themed_e44302 {
-    background-color: --themeY-primary;
+    background-color: var(--themeY-primary);
 }

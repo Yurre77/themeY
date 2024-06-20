@@ -1,13 +1,14 @@
 /**** FONTS ****/
 @font-face {
-    font-family: CascadiaCodeRegular;
-    src: url(Fonts/CaskaydiaCove/CaskaydiaCoveNerdFont-Regular.ttf);
+    font-family: main;
+    src: url(Fonts/CaskaydiaCoveNerdFont-Regular.ttf);
 }
 
 :root{
     --background-tertiary: #333333;
 }
 
+/**Change the font in discord to my own**/
 body, div, span, textarea, ::-webkit-input-placeholder {
     /**
      * Changing fonts.
@@ -15,5 +16,5 @@ body, div, span, textarea, ::-webkit-input-placeholder {
      * Fallbacks are optional, font type is optional but helps the font render properly.
      * Example: font-family: 'Whitney', 'Arial', sans-serif;
      */
-    font-family: 'CascadiaCodeRegular', sans-serif;
+    font-family: 'main', sans-serif;
 }

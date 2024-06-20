@@ -10,11 +10,6 @@
 
 /**Change the font in discord to my own**/
 body, div, span, textarea, ::-webkit-input-placeholder {
-    /**
-     * Changing fonts.
-     * Syntax: font-family: 'font name', fallbacks?, font type?;
-     * Fallbacks are optional, font type is optional but helps the font render properly.
-     * Example: font-family: 'Whitney', 'Arial', sans-serif;
-     */
     font-family: 'main', sans-serif;
+    font-size: 12px;
 }

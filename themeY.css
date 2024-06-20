@@ -1,7 +1,6 @@
 @import url(font.css);
+@import url(background.css);
 
 :root{
-    --background-primary: transparent;
-    --background-secondary: transparent;
-    --background-tertiary: #333333;
+    --themeY-primary: transparent;
 }
